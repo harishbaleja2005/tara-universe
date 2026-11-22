@@ -1,0 +1,11 @@
+PROJECT BRIEF: Tara's Little Universe
+(Condensed from the master prompt; the full master prompt was supplied in chat and was not available as a file when the project was built.)
+
+- A personalised, animated, frontend-only React + Vite website: "A World of Science, Smiles and Friendship."
+- Gift from a male friend to a female friend. Strictly FRIENDSHIP: warm, playful, appreciative, lightly cheeky science humour.
+- NEVER mention any conflict, apology, forgiveness or reconciliation. No romantic, possessive or relationship language.
+- Look: midnight purple / cosmic blue galaxy, neon violet, pastel pink, peach, cyan, gold; glassmorphism; handwritten + display + sans type.
+- Sections: Hero, Little Reminders, Science & Tara (Bio/Chem/Physics/Maths), Fun Science Facts (accurate), Friendship Corner,
+  Special Message Jar (10+ messages), One Last Little Experiment, Footer.
+- Interactions: clickable hidden stars, envelopes, jar, facts, flip cards, confetti. Everything functional. Mobile-first, reduced-motion aware.
+- Deploy on Vercel (Vite, `npm run build`, output `dist`, no env vars).
